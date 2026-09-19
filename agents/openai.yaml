@@ -1,0 +1,5 @@
+interface:
+  display_name: "英语口语词块激活"
+  short_description: "从视频字幕提取看得懂却说不出的表达，结合语境、听辨与开口练习"
+  default_prompt: "请用 $english-speaking-chunks 分析我提供的新视频字幕，筛选 15–20 句建立学习清单，并先按时间顺序详细讲解原排名前 6 句。"
+
